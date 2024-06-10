@@ -166,7 +166,7 @@
   </a>
 </p><br><br><br>
 
-<p align="right"><img align="right" src="./images/cyber_code.gif" width="500" alt="naveedamir484" style="border-radius: 10px;" /></p>
+<p align="right"><img align="right" src="./images/cyber_code.gif" width="450" alt="naveedamir484" style="border-radius: 10px;" /></p>
 
   <p align="left">
   <div>  <h3 style="text-align: center;">🚀 Connect with me to Collaborate!</h3>
@@ -188,7 +188,6 @@
 -----------------------
 <br>
 <div align="center">
-<!--   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedamir484&show_icons=true&theme=radical) -->
    <img src="https://github-readme-stats.vercel.app/api?username=naveedamir484&show_icons=true&theme=radical" alt="GitHub Streak" style="margin-left: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveedamir484&layout=compact&theme=radical" alt="GitHub Streak" style="margin-left: 20px; margin-bottom: 20px;">
 </div><br>
