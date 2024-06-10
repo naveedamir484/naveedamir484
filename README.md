@@ -161,7 +161,7 @@
   </a>
 </p><br><br><br>
 
-<p align="right"><img align="right" src="./images/cyber_code.gif" width="550" alt="naveedamir484" style="border-radius: 10px;" />
+<p align="right"><img align="right" src="./images/cyber_code.gif" width="500" alt="naveedamir484" style="border-radius: 10px;" />
 </p>
 
 
