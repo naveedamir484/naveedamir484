@@ -165,18 +165,29 @@
 
 
 
+  <p align="left">
+  <h3 style="text-align: center;">🚀 Connect with me to Collaborate!</h3>
+  <h3 style="text-align: center;">⭐ PROFILE HIGHLIGHTS ⭐</h3> 
+  <ul style="list-style-type: none; padding: 0;">
+    <li>✔️ I regularly write articles on <a href="http://3.26.187.61:3000/articles/1">my blog</a></li>
+    <li>✔️ Know about my experiences on <a href="https://drive.google.com/file/d/1I1xDlpCfz5t2tnOlKOvh9cQzo_fP6jhn/view?usp=drive_link">CV</a></li>
+    <li>✔️ Experienced in Software Development</li>
+    <li>✔️ Passionate about Open Source Contributions</li>
+    <li>✔️ Excellent Communication and Teamwork Skills</li>
+    <li>✔️ Ask me about Coding, DSA, Full-stack dev and AI/ML</li>
+  </ul></p>
 
-<p align="left">
-  📝 I regularly write articles on <a href="http://3.26.187.61:3000/articles/1">my blog</a><br>
-  💬 Ask me about Coding, DSA, AI/ML, MEARN<br>
-  📄 Know about my experiences on <a href="https://drive.google.com/file/d/1I1xDlpCfz5t2tnOlKOvh9cQzo_fP6jhn/view?usp=drive_link">my resume</a><br>
-  ⚡ Fun fact: There's an unwritten law in coding: 'If it ain't broke, don't touch it!'
-</p>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedamir484&show_icons=true&theme=radical)
+
 
 -----------------------
+<br>
+<div align="center">
+<!--   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedamir484&show_icons=true&theme=radical) -->
+   <img src="https://github-readme-stats.vercel.app/api?username=naveedamir484&show_icons=true&theme=radical" alt="GitHub Streak" style="margin-left: 20px; margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveedamir484&layout=compact&theme=radical" alt="GitHub Streak" style="margin-left: 20px; margin-bottom: 20px;">
+</div><br>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -184,9 +195,6 @@
   </a>
 </p><br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveedamir484&layout=compact&theme=radical" alt="GitHub Streak" style="margin-left: 20px; margin-bottom: 20px;">
-</div><br>
 
 
 
