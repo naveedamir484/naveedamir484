@@ -166,9 +166,7 @@
   </a>
 </p><br><br><br>
 
-<p align="right"><img align="right" src="./images/cyber_code.gif" width="500" alt="naveedamir484" style="border-radius: 10px;" />
-</p>
-
+<p align="right"><img align="right" src="./images/cyber_code.gif" width="500" alt="naveedamir484" style="border-radius: 10px;" /></p>
 
   <p align="left">
   <div>  <h3 style="text-align: center;">🚀 Connect with me to Collaborate!</h3>
@@ -179,7 +177,7 @@
     <li>✔️ Experienced in Software Development</li>
     <li>✔️ Passionate about Open Source Contributions</li>
     <li>✔️ Excellent Communication and Teamwork Skills</li>
-    <li>✔️ Ask me about Coding, DSA, Full-stack dev and AI/ML</li>
+    <li>✔️ Ask me about DSA, Full-stack dev and AI/ML</li>
   </ul></p></div>
   <br>
 
