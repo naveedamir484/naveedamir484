@@ -1,5 +1,4 @@
-
-<p align="left"> <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="naveedamir484" > </p>
+<kbd><img src="https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif" alt="68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><kbd>
 
 <h2 align="center">Hi there, Wellcome to my GitHub Profile, I am Naveed Amir </h2> 
 <h3 align="center">Passionate Full-stack Developer | India 🇮🇳</h3>
@@ -33,6 +32,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveedamir484&theme=vue" style="max-width: 100%;">
+  </a>
+</p><br>
 
 --------------------------------
 <p align="center">
@@ -195,6 +200,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=naveedamir484" alt="GitHub Profile Trophy">
   </a>
 </p><br>
+
+
+
+
+
+
+
 
 
 
