@@ -161,12 +161,12 @@
   </a>
 </p><br><br><br>
 
-<img align="right" src="./images/cyber_code.gif" width="500" alt="naveedamir484" style="border-radius: 10px;" />
-
+<p align="right"><img align="right" src="./images/cyber_code.gif" width="550" alt="naveedamir484" style="border-radius: 10px;" />
+</p>
 
 
   <p align="left">
-  <h3 style="text-align: center;">🚀 Connect with me to Collaborate!</h3>
+  <div>  <h3 style="text-align: center;">🚀 Connect with me to Collaborate!</h3>
   <h3 style="text-align: center;">⭐ PROFILE HIGHLIGHTS ⭐</h3> 
   <ul style="list-style-type: none; padding: 0;">
     <li>✔️ I regularly write articles on <a href="http://3.26.187.61:3000/articles/1">my blog</a></li>
@@ -175,7 +175,8 @@
     <li>✔️ Passionate about Open Source Contributions</li>
     <li>✔️ Excellent Communication and Teamwork Skills</li>
     <li>✔️ Ask me about Coding, DSA, Full-stack dev and AI/ML</li>
-  </ul></p>
+  </ul></p></div>
+  <br>
 
 
 
