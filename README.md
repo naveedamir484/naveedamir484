@@ -22,7 +22,7 @@
   <a href="https://stackoverflow.com/users/14013830" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40">
   </a>
-  <a href="https://www.youtube.com/c/@naveedamir614" target="_blank">
+  <a href="https://www.youtube.com/channel/UCGaYiIpVOEzUWWS9A1zrodQ" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40">
   </a>
   <a href="https://www.leetcode.com/naveedaamir484" target="_blank">
