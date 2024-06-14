@@ -172,7 +172,7 @@
   <div>  <h3 style="text-align: center;">🚀 Connect with me to Collaborate!</h3>
   <h3 style="text-align: center;">⭐ PROFILE HIGHLIGHTS ⭐</h3> 
   <ul style="list-style-type: none; padding: 0;">
-    <li>✔️ I regularly write articles on <a href="http://3.26.187.61:3000/articles/1">my blog</a></li>
+    <li>✔️ I regularly write articles on <a href="http://ec2-3-26-187-61.ap-southeast-2.compute.amazonaws.com:3000/">my blog</a></li>
     <li>✔️ Know about my experiences on <a href="https://drive.google.com/file/d/1I1xDlpCfz5t2tnOlKOvh9cQzo_fP6jhn/view?usp=drive_link">CV</a></li>
     <li>✔️ Experienced in Software Development</li>
     <li>✔️ Passionate about Open Source Contributions</li>
